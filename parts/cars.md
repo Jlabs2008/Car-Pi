@@ -1,4 +1,4 @@
-# 3D Printing disclaimers
+# 3D Printing Disclaimer
 
 ## Fitment Compatibility
 
